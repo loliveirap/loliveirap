@@ -5,7 +5,7 @@
 - 🖥️ *Desenvolvedor Back-end*
 - 🐭 39 anos
 - 🧠 Formado em Ciência da Computação
-- 🎮 Games / 🎵 Músicas / 🎞 Filmes/Séries
+- 🎮 Games / 🎵 Músicas / 🎞 Filmes/Séries / Carros
 - ❤ Apaixonado pelo meu filho Erik 
 - ❤ Apaixonado pelo desenvolvimento de software e tecnologia. 
 
