@@ -50,5 +50,5 @@ API que usa IA para análise de texto e insights.
 ---
 
 ## 📫 Entre em contato
-**LinkedIn:** https://www.linkedin.com/in/leandro-oliveira  
+**LinkedIn:** https://www.linkedin.com/in/leandro-oliveira-pinto-6a541848  
 **Email:**
