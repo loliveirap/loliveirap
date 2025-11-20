@@ -1,64 +1,54 @@
-## Leandro Oliveira
+# 👋 Olá! Eu sou o Leandro Oliveira  
+### Senior .NET Backend Developer | APIs • Microservices • Cloud • Clean Architecture
 
-### Olá! Bem vindo ao meu perfil! 🇧🇷
+Sou desenvolvedor backend com mais de 10 anos de experiência construindo sistemas robustos, escaláveis e seguros — especialmente usando **.NET**, **C#**, **Arquitetura Limpa**, **EF Core** e **Azure**.  
+Tenho forte atuação em arquitetura, performance, segurança e integração entre sistemas complexos.
 
-- 🖥️ *Desenvolvedor Back-end*
-- 🐭 39 anos
-- 🧠 Formado em Ciência da Computação
-- 🎮 Games / 🎵 Músicas / 🎞 Filmes/Séries / Carros
-- ❤ Apaixonado pelo meu filho Erik 
-- ❤ Apaixonado pelo desenvolvimento de software e tecnologia. 
+Atualmente focado em:
+- Desenvolvimento backend com **.NET 8**
+- Arquitetura de microsserviços, mensageria e DDD
+- Testes automatizados (TDD/BDD)
+- Observabilidade: Serilog, OpenTelemetry
+- Deploy em **Docker**, Azure e ambientes escaláveis
+- IA aplicada ao desenvolvimento e automações
 
-<div>
-  <a href="https://github.com/loliveirap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loliveirap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliveirap&layout=default&langs_count=7&theme=tokyonight"/> -->
-</div>
-  
-  <br />
-  
-  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliveirap&layout=compact&hide=html&theme=dark" alt="loliveirap" />
-<div/>
-    
-<br />
+---
 
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=loliveirap&repo=loliveirap&countColor=%237B1E7A)
+## 🚀 Projetos de Portfólio
 
-# Competências / Skills
-- C#
-- Linq
-- Entity Framework 
-- .NET
-- .NET Core
-- .NET Framework
-- SQL Server
-- MySQL
-- PostgreSQL
-- MongoDB
-- HTML/CSS
-- Clean Architeture
-- DDD
-- TDD
-- SOLID
-- Design Patterns
-- Unit Tests
-- GitHub
-- API Rest
-- Mensageria com RabbitMQ
-- Microsoft Graph
+### 🔹 **1) Microservices eCommerce – Orders Service**
+API de pedidos com arquitetura limpa, mensageria e CQRS.  
+**Tecnologias:** .NET 8, Clean Architecture, CQRS, MediatR, EF Core, RabbitMQ, Docker, Swagger, SQL Server.  
+🔗 Repositório: _em breve_  
 
-<!--
-**loliveirap/loliveirap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔹 **2) Scheduler Service – Sistema de Agendamentos com Background Jobs**
+Processamento assíncrono, jobs escaláveis e notificações.  
+**Tecnologias:** .NET 8, Hangfire, Docker, Serilog, Email/Webhook Notifications.  
+🔗 Repositório: _em breve_  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔹 **3) Auth API – Autenticação e Autorização com JWT/OAuth**
+API completa com segurança avançada, roles e refresh tokens.  
+**Tecnologias:** .NET 8, Identity, JWT, OAuth2, Tests, SQL Server, Swagger.  
+🔗 Repositório: _em breve_  
+
+---
+
+### 🔹 **4) AI Insights – API com Azure OpenAI**
+API que usa IA para análise de texto e insights.  
+**Tecnologias:** .NET 8, Azure Cognitive Services, Clean Architecture, Docker.  
+🔗 Repositório: _em breve_  
+
+---
+
+## 🧰 Principais Tecnologias
+**.NET • C# • ASP.NET Core • WebAPI • EF Core • SQL Server • PostgreSQL • Azure • Docker • RabbitMQ • Hangfire • OpenTelemetry • Serilog • xUnit • Clean Architecture • DDD • CQRS**
+
+---
+
+## 📫 Entre em contato
+**LinkedIn:** https://www.linkedin.com/in/leandro-oliveira  
+**Email:**
